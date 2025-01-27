@@ -1,0 +1,3 @@
+# Objective-C Memory Management: retain/release/autorelease Pitfalls
+
+This repository demonstrates common errors related to memory management in Objective-C, specifically the improper use of `retain`, `release`, and `autorelease`.  The example showcases how forgetting to release objects or releasing them multiple times can lead to memory leaks or crashes, respectively.  A solution is provided to illustrate correct memory management practices.
